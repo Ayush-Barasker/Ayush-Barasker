@@ -1,3 +1,4 @@
+![logo](https://github.com/Ayush-Barasker/Ayush-Barasker/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.png)
 # 💫 About Me:
 🌱 I’m currently learning Full Stack Development [MERN], DBMS, Data Structures<br>👯 I’m looking to collaborate on Front End Projects, Machine Learning Projects<br>🔗 Connect with me https://www.linkedin.com/in/ayushbarasker/<br>📧 Mail me on ayushbarasker.official@gmail.com<br>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
