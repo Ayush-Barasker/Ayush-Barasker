@@ -2,7 +2,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Full Stack Development [MERN], DBMS, Data Structures<br>👯 I’m looking to collaborate on Front End Projects, Machine Learning Projects<br>🔗 Connect with me https://www.linkedin.com/in/ayushbarasker/<br>📧 Mail me on ayushbarasker.official@gmail.com<br>
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushbarasker/) 
