@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Projects in domain of Machine Learning & Web development**
 
-- 💬 Ask me about **Programming languages, Front end development, Machine Learning**
+- 💬 Ask me about **Programming languages, Front end development, Machine Learning, Technology Stuff**
 
 - 📫 How to reach me **ayushbarasker.official@gmail.com**
 
