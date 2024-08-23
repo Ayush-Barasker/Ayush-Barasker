@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-barasker&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-barasker" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Machine Learning Projects & Front end web development projects**
 
 - 👯 I’m looking to collaborate on **Projects in domain of Machine Learning & Web development**
 
